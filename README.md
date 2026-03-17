@@ -20,3 +20,15 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 - Utilização eficiente do GitHub Copilot
 
 ---
+
+## 2 - 
+**Descrição:** Solicitar uma string e um número inteiro como entrada. Retornar a string repetida o número de vezes informado.  
+
+**Conceitos:**
+- Manipulação de Strings (`string`)
+- Números Inteiros (`int`)
+- Múltiplas repetições
+- Entrada de dados
+- Aproveitar as sugestões do GitHub Copilot
+
+---
