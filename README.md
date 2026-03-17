@@ -21,7 +21,7 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 
 ---
 
-## 2 - ope_mat.py
+## 2 - Repetindo Textos
 **Descrição:** Solicitar uma string e um número inteiro como entrada. Retornar a string repetida o número de vezes informado.  
 
 **Conceitos:**
