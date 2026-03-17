@@ -63,3 +63,11 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 - Prática na solicitação e manipulação de entrada do usuário  
 
 ---
+
+## 6 - Verificando Palíndromos
+**Descrição:** Testar se uma palavra é um palíndromo.  
+
+**Conceitos:**
+- Manipulação de strings em Python (inversão de string)  
+- Comparação entre string original e invertida  
+- Introdução ao conceito de palíndromos e sua aplicação em programação  
