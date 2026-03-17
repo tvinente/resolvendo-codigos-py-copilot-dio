@@ -32,3 +32,13 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 - Aproveitar as sugestões do GitHub Copilot
 
 ---
+
+## 3 - Operações Matemáticas Simples
+**Descrição:** Solicitar como entrada dois números e realizar uma operação simples entre eles.  
+
+**Conceitos:**
+- Operações Matemáticas Básicas
+- Entrada de dados
+- Utilização eficiente do GitHub Copilot
+
+---
