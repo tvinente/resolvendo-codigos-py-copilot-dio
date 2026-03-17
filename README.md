@@ -42,3 +42,14 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 - Utilização eficiente do GitHub Copilot
 
 ---
+
+## 4 - Verificando Números Pares e Ímpares
+
+**Descrição:** Receber um número inteiro e verificar se ele é par ou ímpar.  
+
+**O que aprenderemos:**
+- Utilização de condicionais em Python (`if`, `else`)  
+- Uso do operador de módulo (`%`) para verificar paridade  
+- Exploração do uso de IA (Copilot) para otimizar código  
+
+---
