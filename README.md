@@ -47,9 +47,19 @@ Este projeto tem como objetivo utilizar o GitHub Copilot para auxiliar na soluç
 
 **Descrição:** Receber um número inteiro e verificar se ele é par ou ímpar.  
 
-**O que aprenderemos:**
+**Conceitos:**
 - Utilização de condicionais em Python (`if`, `else`)  
 - Uso do operador de módulo (`%`) para verificar paridade  
 - Exploração do uso de IA (Copilot) para otimizar código  
+
+---
+
+## 5 - Calculando Média de Notas
+**Descrição:** Calcular a média de três notas fornecidas pelo usuário.  
+
+**Conceitos:**
+- Uso de variáveis para armazenar dados  
+- Aplicação de operadores aritméticos (`+`, `/`)  
+- Prática na solicitação e manipulação de entrada do usuário  
 
 ---
